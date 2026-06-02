@@ -487,18 +487,6 @@ Helpful issue details include:
 
 ---
 
-## 📄 License
-
-Add your preferred license here.
-
-Examples:
-
-- MIT License
-- Apache License 2.0
-- GPL License
-
----
-
 ## 👨‍🏫 About
 
 Risale App was created as a practical tool for teachers who need a simple and reliable way to track student learning progress without using paper notebooks.
